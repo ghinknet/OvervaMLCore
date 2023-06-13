@@ -1,3 +1,3 @@
-# SLMCore
+# OvervaMLCore
 
-Seminol Launcher for Minecraft's Core
+Overva Minecraft Launcher Core
